@@ -48,7 +48,7 @@
 75C:\folder\GoIteens\Projects\it-studio\node_modules\css-select\lib\sort.d.ts133798735547378609 0
 83C:\folder\GoIteens\Projects\it-studio\node_modules\term-size\vendor\macos\.DS_Store133798735535361569 0
 91C:\folder\GoIteens\Projects\it-studio\node_modules\caniuse-lite\data\features\es6-module.js133798735574237605 0
-62C:\folder\GoIteens\Projects\it-studio\src\partials\header.html133799619266181473 0
+62C:\folder\GoIteens\Projects\it-studio\src\partials\header.html133799672382941028 0
 47C:\folder\GoIteens\Projects\it-studio\.parcelrc133798725808983558 0
 65C:\folder\GoIteens\Projects\it-studio\node_modules\type-fest\ts41133798735547055398 1
 89C:\folder\GoIteens\Projects\it-studio\node_modules\@jridgewell\trace-mapping\package.json133798735536190591 0
@@ -101,7 +101,7 @@
 103C:\folder\GoIteens\Projects\it-studio\node_modules\caniuse-lite\data\features\keyboardevent-location.js133798735584400884 0
 99C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\node-resolver-core\test\fixture\packages133798735553355998 1
 71C:\folder\GoIteens\Projects\it-studio\node_modules\@nodelib\fs.stat\out133798735541828573 1
-42C:\folder\GoIteens\Projects\it-studio\dist133799626918957124 1
+42C:\folder\GoIteens\Projects\it-studio\dist133799676848558046 1
 99C:\folder\GoIteens\Projects\it-studio\node_modules\caniuse-lite\data\features\html-media-capture.js133798735582294866 0
 79C:\folder\GoIteens\Projects\it-studio\node_modules\abortcontroller-polyfill\src133798735541145404 1
 65C:\folder\GoIteens\Projects\it-studio\node_modules\.bin\acorn.cmd133798735595900307 0
@@ -173,7 +173,7 @@
 88C:\folder\GoIteens\Projects\it-studio\node_modules\caniuse-lite\data\features\colr-v1.js133798735554881461 0
 89C:\folder\GoIteens\Projects\it-studio\node_modules\htmlnano\lib\modules\sortAttributes.js133798735546362999 0
 70C:\folder\GoIteens\Projects\it-studio\node_modules\type-fest\base.d.ts133798735538729118 0
-52C:\folder\GoIteens\Projects\it-studio\src\index.html133799554420665866 0
+52C:\folder\GoIteens\Projects\it-studio\src\index.html133799676843536901 0
 79C:\folder\GoIteens\Projects\it-studio\node_modules\entities\lib\decode.d.ts.map133798735542479038 0
 61C:\folder\GoIteens\Projects\it-studio\node_modules\acorn\dist133798735542179645 1
 65C:\folder\GoIteens\Projects\it-studio\node_modules\to-regex-range133798735536216122 1
@@ -189,7 +189,7 @@
 95C:\folder\GoIteens\Projects\it-studio\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133798735539837123 0
 84C:\folder\GoIteens\Projects\it-studio\node_modules\@swc\helpers\src\_create_super.js133798735555163122 0
 102C:\folder\GoIteens\Projects\it-studio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.c133798735547941280 0
-50C:\folder\GoIteens\Projects\it-studio\src\partials133799622119541830 1
+50C:\folder\GoIteens\Projects\it-studio\src\partials133799672382941028 1
 61C:\folder\GoIteens\Projects\it-studio\src\partials\about.html133799621164991101 0
 80C:\folder\GoIteens\Projects\it-studio\node_modules\csso\lib\restructure\index.js133798735547514062 0
 76C:\folder\GoIteens\Projects\it-studio\node_modules\terser\dist\bundle.min.js133798735543434726 0
@@ -1159,7 +1159,7 @@
 92C:\folder\GoIteens\Projects\it-studio\node_modules\caniuse-lite\data\features\css-nesting.js133798735557326896 0
 98C:\folder\GoIteens\Projects\it-studio\node_modules\caniuse-lite\data\features\input-placeholder.js133798735583846303 0
 80C:\folder\GoIteens\Projects\it-studio\node_modules\@swc\helpers\lib\_inherits.js133798735548796835 0
-53C:\folder\GoIteens\Projects\it-studio\dist\index.html133799626917750246 0
+53C:\folder\GoIteens\Projects\it-studio\dist\index.html133799676848477661 0
 80C:\folder\GoIteens\Projects\it-studio\node_modules\type-fest\source\mutable.d.ts133798735543671487 0
 78C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\optimizer-image\lib133798735535778153 1
 85C:\folder\GoIteens\Projects\it-studio\node_modules\type-fest\source\partial-deep.d.ts133798735544309818 0
@@ -1302,7 +1302,7 @@
 82C:\folder\GoIteens\Projects\it-studio\node_modules\caniuse-lite\data\regions\TG.js133798735591274726 0
 76C:\folder\GoIteens\Projects\it-studio\node_modules\svgo\plugins\prefixIds.js133798735548623532 0
 76C:\folder\GoIteens\Projects\it-studio\node_modules\terser\lib\mozilla-ast.js133798735549156160 0
-64C:\folder\GoIteens\Projects\it-studio\dist\index.975ef6c8.js.map133799626917860644 0
+64C:\folder\GoIteens\Projects\it-studio\dist\index.975ef6c8.js.map133799676848247104 0
 97C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\core\src\requests\AssetGraphRequest.js133798735545557095 0
 79C:\folder\GoIteens\Projects\it-studio\node_modules\posthtml\types\posthtml.d.ts133798735538578179 0
 79C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\transformer-posthtml133798735538517796 1
@@ -4065,7 +4065,7 @@
 95C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\transformer-postcss\lib\constants.js133798735535263576 0
 97C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\transformer-postcss\lib\loadPlugins.js133798735538769307 0
 83C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\transformer-json\LICENSE133798735534324523 0
-65C:\folder\GoIteens\Projects\it-studio\dist\index.b07a87f3.css.map133799626917860644 0
+65C:\folder\GoIteens\Projects\it-studio\dist\index.b07a87f3.css.map133799676848302191 0
 98C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\transformer-json\src\JSONTransformer.js133798735536139020 0
 77C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\transformer-js\lib133798735539085971 1
 81C:\folder\GoIteens\Projects\it-studio\node_modules\@parcel\transformer-js\LICENSE133798735534474989 0
@@ -4714,8 +4714,8 @@
 64C:\folder\GoIteens\Projects\it-studio\node_modules\.bin\svgo.cmd133798735595900307 0
 64C:\folder\GoIteens\Projects\it-studio\node_modules\.bin\svgo.ps1133798735595900307 0
 66C:\folder\GoIteens\Projects\it-studio\node_modules\.bin\terser.ps1133798735595984731 0
-60C:\folder\GoIteens\Projects\it-studio\dist\index.975ef6c8.js133799626917815516 0
-61C:\folder\GoIteens\Projects\it-studio\dist\index.b07a87f3.css133799626917750246 0
-60C:\folder\GoIteens\Projects\it-studio\dist\logo.c493797d.png133799626918932040 0
+60C:\folder\GoIteens\Projects\it-studio\dist\index.975ef6c8.js133799676848227103 0
+61C:\folder\GoIteens\Projects\it-studio\dist\index.b07a87f3.css133799676848287096 0
+60C:\folder\GoIteens\Projects\it-studio\dist\logo.c493797d.png133799676848091583 0
 70C:\folder\GoIteens\Projects\it-studio\assets\actions-config-step-1.png133798725809144297 0
 62C:\folder\GoIteens\Projects\it-studio\assets\repo-settings.png133798725809265193 0
