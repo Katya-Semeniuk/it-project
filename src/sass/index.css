@@ -1,0 +1,92 @@
+.example {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  line-height: 1.5;
+  background-color: #fff;
+  color: #2f2f37;
+  max-width: 960px;
+  padding: 16px;
+}
+
+.example code {
+  font-family: monospace;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #ff6b0a;
+  color: #fff;
+  padding: 2px 6px;
+  border-radius: 2px;
+}
+
+.example .background {
+  height: 240px;
+  background-image: url("../images/logo.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.subscribe-container {
+  flex-direction: column;
+}
+
+.subscribe-title {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.2;
+}
+
+.subscribe-description {
+  font-size: 400;
+  font-size: 16px;
+  line-height: 1.6;
+  margin-top: 20px;
+  color: #999999;
+}
+
+.subscribe-btn {
+  background-color: #4985FF;
+  color: #FFFFFF;
+  font: 500;
+  font-size: 16px;
+  line-height: 1.3;
+  padding: 13px 36px 15px 26px;
+  border-radius: 0 30px 30px 0;
+}
+
+.subscribe-input {
+  padding: 15px 149px 13px 33px;
+  border: none;
+  border-radius: 30px 0 0 30px;
+}
+.subscribe-input::-moz-placeholder {
+  color: #999;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.6;
+}
+.subscribe-input::placeholder {
+  color: #999;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.6;
+}
+.subscribe-input:focus {
+  outline: #999999;
+}
+
+.subscribe-form {
+  width: 489px;
+  display: flex;
+  border-radius: 30px;
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  margin: 30px 0 35px;
+}
+.subscribe-form:hover {
+  box-shadow: 0px 0px 10px 0px rgba(111, 111, 111, 0.25);
+}
+
+.subscribe-text {
+  color: #999;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 1.3;
+}/*# sourceMappingURL=index.css.map */
