@@ -1,0 +1,48 @@
+.about {
+    background-image: url(../images/about/about-background.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    padding: 70px 0 85px 0;
+}
+
+.about-heading {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.5;
+    text-align: center;
+    color: #fff;
+}
+
+.about-desc {
+    padding: 30px 0 70px 0;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: center;
+    color: #fff;
+}
+
+.about-player {
+    position: relative;
+    width: 970px;
+    height: 430px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.play-btn {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px 40px;
+    font-size: 16px;
+    line-height: 1.6;
+    background: transparent;
+    border: 1px solid white;
+    border-radius: 200px;
+    color: #fff;
+}
