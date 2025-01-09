@@ -1,4 +1,5 @@
-@import'./utils/variables';
-@import'./base/common';
-@import "./components/about";
+@use 'utils/variables' as *;
+@use 'base/common' as *;
+@use 'components/standarts' as *;
+@use 'components/about' as *;
 
