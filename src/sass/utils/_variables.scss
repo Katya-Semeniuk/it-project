@@ -1,0 +1,44 @@
+// Variables for colors
+$accentColor: #4985FF;
+$whiteColor: #FFFFFF;
+$blackTitelColor: #323232;
+$blackColor: #000000;
+$greyColor: #999999;
+$lightGreyColor: #E0E0E0;
+$sectionBgColor: #F6F6F8;
+$shadowColor: #F2F2F2;
+
+// Variables for fonts  and  mixin
+$primaryFont: "Montserrat", serif;
+@mixin title-h2 {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 3;
+}
+
+@mixin title-h3 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1;
+} 
+
+@mixin text-p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1;
+}
+
+@mixin text-p-h2 {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+@mixin text-p-h3 {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+// Media queries
+$mobile: 480px;
+$tablet:768px;
+$desktop:1200px;
