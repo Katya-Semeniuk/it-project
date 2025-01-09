@@ -1,4 +1,5 @@
-@import "modern-normalize";
+// @import "modern-normalize";
+@use 'modern-normalize' as *;
 
 .container {
     width: 1110px;
