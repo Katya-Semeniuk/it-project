@@ -1,2 +1,2 @@
-@import './components/example';
-@import './components/subscribe';
+@use './components/subscribe' as *;
+@use 'components/about' as *;
