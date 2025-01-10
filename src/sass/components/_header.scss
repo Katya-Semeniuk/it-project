@@ -1,0 +1,48 @@
+.header {
+    background-color: transparent;
+    position: absolute;
+    width: 100%;
+}
+
+.header-list {
+    position: absolute;
+    right: 300px;
+    display: flex;
+    gap: 50px;
+    padding: 15px 0;
+}
+
+.header-page {
+    font-family: "Montserrat", serif;
+    color: #dfdfdf;
+    font-size: 16px;
+    font-weight: 500;
+    transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+    &:focus,
+    &:hover {
+        color: #FFFFFF;
+    }
+
+    &:hover,
+    &::after {
+        opacity: 1;
+        transform: scaleX(1);
+    }
+
+    &::after {
+        content: "";
+        position: absolute;
+        display: block;
+        opacity: 0;
+        left: 0;
+        bottom: -30px;
+        transform: scaleX(0);
+        transition: transition, opacity, 250ms cubic-bezier(0.4, 0, 0.2, 1);
+        border-radius: 2px;
+        height: 5px;
+        width: 100%;
+        background-color: #ffffff;
+    }
+
+}

@@ -1,2 +1,4 @@
 // @import './components/about';
+@use 'components/header' as *;
+@use 'components/hero' as *;
 @use 'components/about' as *;
