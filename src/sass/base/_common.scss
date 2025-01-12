@@ -1,0 +1,12 @@
+// @import "modern-normalize";
+@use 'modern-normalize' as *;
+
+.container {
+    width: 1110px;
+    padding: 0 15px;
+    margin: 0 auto;
+    outline: 1px solid red;
+}
+
+
+
