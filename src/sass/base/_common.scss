@@ -1,12 +1,18 @@
-// @import "modern-normalize";
 @use 'modern-normalize' as *;
+@use '../utils/variables' as *;
 
 .container {
-    width: 1110px;
-    padding: 0 15px;
-    margin: 0 auto;
-    outline: 1px solid red;
+  width: 1110px;
+  padding: 0 15px;
+  margin: 0 auto;
+  outline: 1px solid red;  
 }
 
 
-
+body {
+  font-family: $primaryFont;
+  line-height: 1.2;
+  font-weight: 400;
+  color: $greyColor;
+  background-color: $whiteColor;
+}
