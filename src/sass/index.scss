@@ -1,6 +1,17 @@
+<<<<<<< HEAD
+// @import './components/about';
+@use './components/header' as *;
+@use './components/hero' as *;
+@use './utils/variables' as *;
+@use './base/reset' as *;
+@use './base/common' as *;
+@use './components/standards' as *;
+@use './components/about' as *;
+=======
 @use './utils/variables' as *;
 @use './base/reset' as *;
 @use './base/common' as *;
 @use './components/standards' as *;
 @use './components/about' as *;
 
+>>>>>>> main
