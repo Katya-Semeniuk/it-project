@@ -8,6 +8,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     gap: 160px;
+    position: relative;
 }
 .content {
     display: flex;
@@ -40,10 +41,13 @@
    
 }
 .standards-hr{
+    position: absolute;
+    left: 0px;
+    top: 450px;
     padding: 0;
     margin: 0;
     height: 1px;
-    width: 1110px;
+    width: 1080px;
     border: 1px solid #E0E0E0;
 }
 .standards-list {
