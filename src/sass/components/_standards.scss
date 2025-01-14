@@ -1,5 +1,6 @@
+@use '../utils/variables' as *;
 .standards {
-    background-color: #F6F6F8;
+    background-color: $sectionBgColor;
     padding: 100px 0 70px 0;
 }
 .standards-thumb {
@@ -19,16 +20,13 @@
    position: relative;
 }
 .standards-title {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 3;
-    color: #323232;
+    @include title-h2;
+    color: $blackTitelColor;
 }
 .standards-text {
-    font-weight: 400;
-    font-size: 16px;
+    @include text-p-h2 ;
     margin: 60px 0 42px 0;
-    color:#999999;
+    color:$greyColor;
 }
 .standards-link {
     position: absolute;
@@ -37,7 +35,7 @@
     font-size: 16px;
     font-weight: 500;
     text-decoration: underline;
-    color: #4985FF;
+    color: $accentColor;
    
 }
 .standards-hr{
@@ -48,7 +46,7 @@
     margin: 0;
     height: 1px;
     width: 1080px;
-    border: 1px solid #E0E0E0;
+    border: 1px solid $lightGreyColor;
 }
 .standards-list {
     display: flex;
@@ -68,8 +66,8 @@
 .item-title {
     font-weight: 400;
     font-size: 36px;
-    color: #323232;
-    fill: #4985FF;
+    color: $blackTitelColor;
+    fill: $accentColor;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -77,7 +75,7 @@
     gap: 20px;
 }
 .item-text {
-    color:#999999;
+    color:$greyColor;
     font-weight: 400;
     font-size: 16px;
 }
