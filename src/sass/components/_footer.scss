@@ -3,31 +3,26 @@
   background-color: $bgHeroFooterColor;
 }
 
-
-.footer-container{
+.footer-container {
   @media screen and (min-width: $desktop) {
     display: flex;
   }
 }
 
-
 // footer-wrapper block
 .tablet-position {
-  @media screen  and (min-width:$tablet) and (max-width:1199px){
-   display: flex;
-  justify-content: space-around;
-  align-items: baseline;
-  margin-bottom: 60px; 
+  @media screen and (min-width: $tablet) and (max-width: 1199px) {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    margin-bottom: 60px;
   }
 
-  @media screen  and (min-width: $desktop){
-     display: flex;
-     gap: 70px;
+  @media screen and (min-width: $desktop) {
+    display: flex;
+    gap: 70px;
   }
-  
 }
-
-
 
 .footer-address {
   margin-top: 20px;
@@ -68,7 +63,6 @@
   @media screen and (max-width: $tablet) {
     margin-top: 60px;
   }
-  
 }
 
 .footer-join-title {
@@ -107,8 +101,7 @@
 
 // footer-form
 
-.form-box{
-
+.form-box {
   @media screen and (max-width: $tablet) {
     margin-top: 60px;
   }
@@ -117,7 +110,7 @@
     display: flex;
     flex-direction: column;
   }
-   @media screen and (min-width: $desktop) {
+  @media screen and (min-width: $desktop) {
     margin-left: auto;
   }
 }
@@ -130,28 +123,27 @@
   letter-spacing: 0.42px;
   text-transform: uppercase;
   color: $whiteColor;
-  
+
   @media screen and (max-width: 1199px) {
     text-align: center;
   }
 }
 
+.footer-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
 
-.footer-form{
-   display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 20px;
-
-    @media screen and (min-width: $desktop){
-       flex-direction: row;
-       gap: 12px;
-    }
+  @media screen and (min-width: $desktop) {
+    flex-direction: row;
+    gap: 12px;
+  }
 }
 .footer-input {
   display: block;
   width: 100%;
-   max-width: 450px;
+  max-width: 450px;
   height: 50px;
   padding: 16px 15px;
   border: 1px solid rgba(255, 255, 255, 0.3);
@@ -166,7 +158,6 @@
     letter-spacing: 0.48px;
   }
 
-
   @media screen and (min-width: $desktop) {
     margin-bottom: 0;
     min-width: 358px;
@@ -180,6 +171,6 @@
   margin: 0 auto;
 
   @media screen and (min-width: $desktop) {
-   padding: 10px 28px;
+    padding: 10px 28px;
   }
 }
