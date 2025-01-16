@@ -1,0 +1,35 @@
+@use '../utils/variables' as *;
+
+.hero {
+    font-family: "Montserrat", serif;
+    background-image: url(../images/hero-bg.jpg);
+    padding: 250px 0;
+}
+
+.hero-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.hero-title {
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.hero-text {
+    font-size: 48px;
+    width: 829px;
+    font-weight: 800;
+    color: #FFFFFF;
+}
+
+.hero-button {
+    font-size: 16px;
+    font-weight: 500;
+    padding: 13px 42px;
+    border-radius: 30px;
+    color: #FFFFFF;
+    background-color: #4985FF;
+}
