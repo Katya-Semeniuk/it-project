@@ -1,0 +1,81 @@
+@use '../utils/variables' as *;
+.standards {
+    background-color: $sectionBgColor;
+    padding: 100px 0 70px 0;
+}
+.standards-thumb {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 160px;
+    position: relative;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+    gap: 121px;
+}
+.standards-box{
+   position: relative;
+}
+.standards-title {
+    @include title-h2;
+    color: $blackTitelColor;
+}
+.standards-text {
+    @include text-p-h2 ;
+    margin: 60px 0 42px 0;
+    color:$greyColor;
+}
+.standards-link {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: underline;
+    color: $accentColor;
+   
+}
+.standards-hr{
+    position: absolute;
+    left: 0px;
+    top: 450px;
+    padding: 0;
+    margin: 0;
+    height: 1px;
+    width: 1080px;
+    border: 1px solid $lightGreyColor;
+}
+.standards-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 105px;
+}
+.standards-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 17px;
+}
+.item-title {
+    font-weight: 400;
+    font-size: 36px;
+    color: $blackTitelColor;
+    fill: $accentColor;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+}
+.item-text {
+    color:$greyColor;
+    font-weight: 400;
+    font-size: 16px;
+}
